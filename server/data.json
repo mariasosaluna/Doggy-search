@@ -16,7 +16,7 @@
       "name": "Yorkshire Terrier", 
       "size": "tiny(0-5kg)",
       "hair": "long",
-      "personality": "territorial",
+      "personality": "territorial, good",
       "activity": "medium",
       "image": "https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0141_yorkshire_terrier.jpg",
       "excercice": "30 - 60 minutes of playing time",
@@ -27,11 +27,11 @@
       "name": "Bichon Maltés", 
       "size": "tiny(0-5kg)",
       "hair": "long",
-      "personality": "easy",
+      "personality": "easy, protector",
       "activity": "medium",
       "image": "https://curiosfera-animales.com/wp-content/uploads/2018/10/Car%C3%A1cter-del-bich%C3%B3n-malt%C3%A9s.jpg",
-      "excercice": "30 minutes of playing time",
-      "description": "Not recommended in a Family with childrens. The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing purse dogs stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds. Even tiny dogs require training, and without it this clever scamp will rule your household like a little Napoleon. "
+      "excercice": "30 - 60 minutes of playing time",
+      "description": "In general, the Maltese is a happy and fun dog, as well as affectionate with its caregiver. He is a good companion dog and not lonely at all, he likes to enjoy people and pets. It has a protective nature and will love having toys and other things to chew on. It should be noted that the Maltese dog is somewhat nervous and playful and therefore suffers if it spends too much time alone at home."
 
      },
      {
@@ -39,11 +39,11 @@
       "name": "Border Collie", 
       "size": "medium(10-25kg)",
       "hair": "medium",
-      "personality": "friendly",
+      "personality": "friendly, worker, good with children",
       "activity": "high",
       "image": "https://media.istockphoto.com/photos/border-collie-taking-a-rest-picture-id484910814?k=20&m=484910814&s=612x612&w=0&h=6To5CQK1nR-TSHnwdrT-PN7dXFs12Xxh6zJhKCsSIFo=",
-      "excercice": "1-2 hours of high excercice every day",
-      "description": "Not recommended in a Family with childrens. The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing purse dogs stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds. Even tiny dogs require training, and without it this clever scamp will rule your household like a little Napoleon. "
+      "excercice": "2 - 3 hours of high excercice every day",
+      "description": "The ideal environment for a Border Collie is the countryside. This bright and clever breed needs constant activity and if confined will soon become unhappy and destructive."
 
      },
      {
@@ -51,22 +51,22 @@
       "name": "Pastor Alemán", 
       "size": "large(25-40kg)",
       "hair": "medium",
-      "personality": "friendly",
+      "personality": "friendly, protector, good with children",
       "activity": "high",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pastor_aleman_a.jpg",
       "excercice": "1-2 hours of high excercice every day",
-      "description": "Not recommended in a Family with childrens. The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing purse dogs stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds. Even tiny dogs require training, and without it this clever scamp will rule your household like a little Napoleon. "
+      "description": "The German Shepherd is a sociable and trainable dog by nature, which can be the perfect pet or the perfect working animal if it is trained correctly. It is very important to begin their education and socialization at approximately 3 months, since this will make it much easier to achieve a balanced animal capable of behaving correctly in all circumstances. He also usually gets along with children and other animals, but you have to be careful with his games because sometimes he does not control his strength."
 
      },{
       "id": 6, 
       "name": "Gran Danés", 
       "size": "giant(+40kg)",
       "hair": "short",
-      "personality": "friendly",
+      "personality": "friendly, kind, good with children",
       "activity": "low",
       "image": "https://nfnatcane.es/blog/wp-content/uploads/2020/01/gran-dan%C3%A9s-posando.jpg",
-      "excercice": "1-2 hours of high excercice every day",
-      "description": "Not recommended in a Family with childrens. The Chihuahua is a tiny dog with a huge personality. A national symbol of Mexico, these alert and amusing purse dogs stand among the oldest breeds of the Americas, with a lineage going back to the ancient kingdoms of pre-Columbian times. The Chihuahua is a balanced, graceful dog of terrier-like demeanor, weighing no more than 6 pounds. Even tiny dogs require training, and without it this clever scamp will rule your household like a little Napoleon. "
+      "excercice": "1 hour of medium excercice every day",
+      "description": "The enormous size of the Great Dane can give the wrong impression about its temperament and character. In general, these dogs are very friendly and affectionate with their own, although they can be reserved with strangers. They are not usually aggressive, but it is important to socialize them as puppies due to their tendency to be reserved with strangers. Properly socialized, they are dogs that get along well with people, other dogs, and even other pets. In this case, they are particularly good friends with children, although while they are young dogs they can be clumsy for smaller children."
 
      }
   ]
