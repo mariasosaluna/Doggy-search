@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+   background-image: url("./public/doggies-background.jpg"); 
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.select {
+    padding: 10px;
+    display: inline-block;
+}
+
+.select select {
+    padding: 5px 10px;
+    border: 2px solid #86CAD1;
+    border-radius: 10px;
+}
+
+#search {
+    background-color: #86CAD1;
+    color: white;
+    padding: 10px;
+    font-size: large;
+    display: block;
+    margin: auto;
+    border: none;
+    border-radius: 10px;
+}
+
+.container {
+    text-align: left; 
+   width: 770px; 
+   margin: auto;
+}
+
+h1, h2, p > strong {
+    color:#9f4f4f;
+}
+
+p {
+    color: #253546;
+    margin-top: 20px;
+    font-size: large;
+    text-align: justify;
+}
+
+.breed, #form, .empty-result {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.dog-info {
+    display:flex;
+}
+
+img {
+    max-width: 300px;
+    margin-right: 20px;
+    margin-top: 20px;  
+}
+
+.empty-result {
+    color: grey;
+    text-align: center;
+    font-size: large;
+}
+

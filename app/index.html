@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vite App</title>
+</head>
+
+<body>
+  <div id="app" class="container">
+    <div class="column1">  
+      <div id="form">
+        <h1>Find your best friend</h1>
+        <div class="select">
+          <span>Select size:</span>
+          <select id="size">
+            <option value="tiny(0-5kg)">Tiny (0-5kg)</option>
+            <option value="small(5-10kg)">Small (5-10kg)</option>
+            <option value="medium(10-25kg)">Medium (10-25kg)</option>
+            <option value="large(25-40kg)">Large (25-40kg)</option>
+            <option value="giant(+40kg)">Giant (+40kg)</option>
+          </select>
+        </div>
+        <div class="select">
+          <span>Select hair:</span>
+          <select id="hair">
+            <option value="short">Short</option>
+            <option value="medium">Medium</option>
+            <option value="long">Long</option>
+            <option value="wire-haired">Wire-haired</option>
+            <option value="no-hair">No hair</option>
+          </select>
+        </div>
+        <div class="select">
+          <span>Select activity:</span>
+          <select id="activity"> 
+            <option value="low">Low activity</option>
+            <option value="medium">Medium activity</option>
+            <option value="high">High activity</option>
+          </select>
+        </div>
+        <button id="search">Find your doggy</button>
+      </div>
+    </div>
+    <div class="column2">
+      <div id="container">
+        <div class="empty-result">Please, use the filter above to search your perfect doggy</div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>
