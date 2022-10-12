@@ -57,7 +57,8 @@
       "excercice": "1-2 hours of high excercice every day",
       "description": "The German Shepherd is a sociable and trainable dog by nature, which can be the perfect pet or the perfect working animal if it is trained correctly. It is very important to begin their education and socialization at approximately 3 months, since this will make it much easier to achieve a balanced animal capable of behaving correctly in all circumstances. He also usually gets along with children and other animals, but you have to be careful with his games because sometimes he does not control his strength."
 
-     },{
+     },
+     {
       "id": 6, 
       "name": "Gran Danés", 
       "size": "giant(+40kg)",
@@ -68,6 +69,28 @@
       "excercice": "1 hour of medium excercice every day",
       "description": "The enormous size of the Great Dane can give the wrong impression about its temperament and character. In general, these dogs are very friendly and affectionate with their own, although they can be reserved with strangers. They are not usually aggressive, but it is important to socialize them as puppies due to their tendency to be reserved with strangers. Properly socialized, they are dogs that get along well with people, other dogs, and even other pets. In this case, they are particularly good friends with children, although while they are young dogs they can be clumsy for smaller children."
 
+     },
+     {
+      "id": 7, 
+      "name": "Irish Wolfhound", 
+      "size": "giant(+40kg)",
+      "hair": "Wire-haired",
+      "personality": "friendly, protector, good with children",
+      "activity": "medium",
+      "image": "https://as2.ftcdn.net/v2/jpg/02/22/18/87/1000_F_222188721_7XsTGctlecajiNXoWavch1doc6cOW4qU.jpg",
+      "excercice": "1 hour of medium excercice every day",
+      "description": "It is a dog very attached to its owners, which makes it a good protector. It is also calm and docile, ideal for living with children and other pets. It has a strong herding and hunting instinct, and appreciates long walks and frequent field trips."
+     },
+     {
+      "id": 8, 
+      "name": "chinese crested", 
+      "size": "small(5-10kg)",
+      "hair": "Hairless",
+      "personality": "friendly, good with people, docile, they love company",
+      "activity": "low",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/IndyStands.jpg",
+      "excercice": "30 minutes of low excercice every day",
+      "description": "Although the Chinese Crested requires special care to keep its skin and coat in perfect condition, it is a perfect breed of dog for beginners, since its intelligence and docile nature make training it a simple task. Of course, in order to adopt this dog it is essential to have time, because it cannot spend long hours alone."
      }
   ]
 }     
