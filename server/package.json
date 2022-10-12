@@ -1,17 +1,17 @@
 {
-  "name": "metal-gear-server",
+  "name": "Doggy server",
   "version": "0.0.0",
   "description": "...",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --watch data.json"
   },
   "keywords": [
     "json-server",
-    "metal gear",
+    "doggy server",
     "javascript"
   ],
-  "author": "Alberto & Antonio",
+  "author": "María Sosa Luna",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
