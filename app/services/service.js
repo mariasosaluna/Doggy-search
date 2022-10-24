@@ -1,6 +1,6 @@
 export const getData = async (param) => {
   try {
-    const data = await fetch(`https://doggy-server.onrender.com/${param}`);
+    const data = await fetch(`http://localhost:3000/${param}`);
     const dataToJson = await data.json();
     return dataToJson;
   } catch (error) {
